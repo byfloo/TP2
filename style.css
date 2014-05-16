@@ -11,6 +11,10 @@
 
 }
 
+#header h1 {
+text-align : center;
+}
+
 #navigation
 {
 	float: left;
